@@ -5,5 +5,6 @@ public class MyFirstModule
 	public static void Hello()
 	{
 		Console.WriteLine("Hello from module 1");
+		Console.WriteLine("adding a new line");
 	}
 }
